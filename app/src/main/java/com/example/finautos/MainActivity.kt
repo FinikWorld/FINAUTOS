@@ -20,11 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             val loginViewModel = viewModel(modelClass = LoginViewModel::class.java)
             FINAUTOSTheme() {
-                // A surface container using the 'background' color from the theme
-                Surface(modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colors.background) {
                     Navigation(loginViewModel = loginViewModel)
-                }
             }
         }
     }
