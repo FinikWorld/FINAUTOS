@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849331504229",
+    "project_id": "finautos-f2268",
+    "storage_bucket": "finautos-f2268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849331504229:android:f39d125146d35c2652728c",
+        "android_client_info": {
+          "package_name": "com.example.finautos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849331504229-a00ne1qt9hlb6ju7nieiur396v55vnjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm73UBmPlx1pf_u04gSoA6XhqW6KN92Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849331504229-a00ne1qt9hlb6ju7nieiur396v55vnjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
